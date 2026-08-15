@@ -1,4 +1,4 @@
-name: Windows Cloud RDP
+name: abbas repository
 
 on:
   workflow_dispatch:
